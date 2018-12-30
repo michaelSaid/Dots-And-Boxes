@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1513862961 source:c:\users\dell\desktop\project_last\main.c
+	"main_menu.h"
+	"LOOPGAME.h"
+
+1513859592 source:c:\users\dell\desktop\project_last\main_menu.c
+	"main_menu.h"
+
+1513858285 c:\users\dell\desktop\project_last\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1513504613 source:c:\users\dell\desktop\project_last\game_loop.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+
+1513504232 c:\users\dell\desktop\project_last\game_loop.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+
+1513863247 source:c:\users\dell\desktop\project_last\loopgame.c
+	"LOOPGAME.h"
+	"main_menu.h"
+
+1513862281 c:\users\dell\desktop\project_last\loopgame.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1513909235 source:c:\users\dell\desktop\new folder\project_last\main.c
+	"main_menu.h"
+	"LOOPGAME.h"
+
+1513907814 c:\users\dell\desktop\new folder\project_last\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1513868579 c:\users\dell\desktop\new folder\project_last\loopgame.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1513907814 source:c:\users\dell\desktop\new folder\project_last\main_menu.c
+	"main_menu.h"
+
+1513909506 source:c:\users\dell\desktop\new folder\project_last\loopgame.c
+	"LOOPGAME.h"
+	"main_menu.h"
+
+1513965468 source:c:\users\dell\desktop\new folder (2)\project_last\main.c
+	"main_menu.h"
+	"LOOPGAME.h"
+
+1513907814 c:\users\dell\desktop\new folder (2)\project_last\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1513945518 c:\users\dell\desktop\new folder (2)\project_last\loopgame.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1513964501 source:c:\users\dell\desktop\new folder (2)\project_last\main_menu.c
+	"main_menu.h"
+
+1513965078 source:c:\users\dell\desktop\new folder (2)\project_last\loopgame.c
+	"LOOPGAME.h"
+	"main_menu.h"
+
